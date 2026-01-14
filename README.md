@@ -2,27 +2,6 @@
 
 ## Advanced Methodology, Commands & Techniques
 
----
-
-# 📋 TABLE OF CONTENTS
-
-1. [Reconnaissance & OSINT](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-2. [Subdomain Enumeration](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-3. [Port Scanning & Service Discovery](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-4. [Content Discovery](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-5. [Technology Fingerprinting](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-6. [Vulnerability Scanning](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-7. [Web Application Testing](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-8. [API Security Testing](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-9. [Authentication & Authorization](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-10. [Advanced Exploitation](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-11. [Cloud Security Testing](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-12. [Mobile Application Testing](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-13. [Automation & Workflows](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-14. [Reporting](https://www.notion.so/Bug-Bounty-Hunting-Guide-2e8f227bf0f180428430ec9ef4081031?pvs=21)
-
----
-
 # PHASE 1: RECONNAISSANCE & OSINT
 
 ## 1.1 Passive Reconnaissance
