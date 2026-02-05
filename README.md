@@ -1,5 +1,5 @@
 # Bug Bounty Hunting Guide
-Advanced Methodology, Commands & Techniques
+### Advanced Methodology, Commands & Techniques
 ---
 ## PHASE 1: RECONNAISSANCE & OSINT
 
